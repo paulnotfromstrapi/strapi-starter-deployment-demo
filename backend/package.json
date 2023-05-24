@@ -10,10 +10,10 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@strapi/plugin-i18n": "4.10.5",
+    "@strapi/plugin-i18n": "0.0.0-experimental.1ceadb3c223f41482dc07a420ca4574afc12e858",
     "@strapi/plugin-seo": "^1.8.0",
-    "@strapi/plugin-users-permissions": "4.10.5",
-    "@strapi/strapi": "4.10.5",
+    "@strapi/plugin-users-permissions": "0.0.0-experimental.1ceadb3c223f41482dc07a420ca4574afc12e858",
+    "@strapi/strapi": "0.0.0-experimental.1ceadb3c223f41482dc07a420ca4574afc12e858",
     "better-sqlite3": "7.4.6"
   },
   "author": {
