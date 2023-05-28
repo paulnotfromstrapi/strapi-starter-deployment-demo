@@ -15,7 +15,13 @@ const nextConfig = {
       {
         protocol: 'https',
         hostname: 'images.pexels.com',
-      }
+      },
+      {
+        protocol: 'https',
+        hostname: 'motivated-activity-3650c3ec47.media.strapiapp.com',
+        port: '',
+        pathname: '/**',
+      },
     ],
   },
 }
